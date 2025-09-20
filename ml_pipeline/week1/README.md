@@ -3,7 +3,7 @@
 This notebook is the first step in building a machine learning pipeline, focusing on **data preparation**. The goal is to understand raw datasets, clean them and prepare them for modeling. This forms the foundation of the ML pipeline, preparing us for Week 2: **Exploratory Data Analysis (EDA)** and further modeling.    
 
 ## Link to Notebook
-https://colab.research.google.com/github/elifohri/MADRE-Course/blob/main/ml_project_life_cycle/week1/ml_pipeline_week1.ipynb#scrollTo=upGFDeAjBJfW
+https://colab.research.google.com/github/elifohri/MADRE-Course/blob/main/ml_pipeline/week1/ml_pipeline_week1.ipynb
 
 ## How to Run  
 The dataset used here is large, so the most efficient way to work with it is on **Google Colab**.  
