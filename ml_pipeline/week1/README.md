@@ -2,11 +2,8 @@
 
 This notebook is the first step in building a machine learning pipeline, focusing on **data preparation**. The goal is to understand raw datasets, clean them and prepare them for modeling. This forms the foundation of the ML pipeline, preparing us for Week 2: **Exploratory Data Analysis (EDA)** and further modeling.    
 
-## Learning Objectives  
-- Learn how to import and combine multiple datasets.  
-- Understand dataset structure (rows, columns, types).  
-- Detect and visualize missing data.  
-- Apply basic preprocessing (encoding, cleanup).
+## Link to Notebook
+https://colab.research.google.com/github/elifohri/MADRE-Course/blob/main/ml_project_life_cycle/week1/ml_pipeline_week1.ipynb#scrollTo=upGFDeAjBJfW
 
 ## How to Run  
 The dataset used here is large, so the most efficient way to work with it is on **Google Colab**.  
@@ -14,6 +11,12 @@ The dataset used here is large, so the most efficient way to work with it is on 
 - Click the **“Open in Colab”** button at the top of the notebook.  
 - Sign in with your personal Google account.  
 - Start a Colab session and run the cells step by step.
+
+## Learning Objectives  
+- Learn how to import and combine multiple datasets.  
+- Understand dataset structure (rows, columns, types).  
+- Detect and visualize missing data.  
+- Apply basic preprocessing (encoding, cleanup).
 
 ## Contents  
 
