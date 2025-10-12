@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1-ByOAYGg6TTLQwJiDLj-EJMIAu_0EkQn?usp=sh
 ## How to Run
 The workflow is optimized for **Google Colab**:
 - Click **“Open in Colab”** at the top of the notebook
-- Run cells in order (the pipeline handles scaling → PCA → Logistic Regression)
+- Run cells in order
 
 ## Learning Objectives
 - Understand why scaling matters for linear models  
