@@ -35,7 +35,7 @@ The workflow is optimized for Google Colab:
    - Precision–Recall Curve
 6. Discussion  
    - Impact of scaling & PCA on results  
-   - Error analysis (FP/FN) and next steps
+   - Error analysis (FP/FN)
 
 ## Dependencies
 Install the following in Colab:
